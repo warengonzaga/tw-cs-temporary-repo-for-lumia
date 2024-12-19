@@ -4758,7 +4758,7 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-thirdweb@^5:
+thirdweb@^5.79.0:
   version "5.79.0"
   resolved "https://registry.yarnpkg.com/thirdweb/-/thirdweb-5.79.0.tgz#9b5a467cfba63b075925dbcc9b42eea8c7037405"
   integrity sha512-7YjdlQruLjCi9Ie9fQaGIBQM1eKwt7qR4pFJCtIOmpLv94dFDLis2BSOuKuJB2kequ76faMBw1UY7j/OD9HsvA==
